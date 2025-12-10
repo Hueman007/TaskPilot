@@ -15,7 +15,7 @@ A real-time AI-driven task management platform built with the MERN Stack.
 ## Getting Started
 
 ### 1. Clone the repo
-git clone https://github.com/your-username/TaskPilot.git
+git clone https://github.com/Hueman007/TaskPilot.git
 
 ### 2. Install Backend
 cd server
